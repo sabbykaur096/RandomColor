@@ -1,0 +1,58 @@
+
+*{
+    background-color: aqua;
+}
+
+
+.btn-1 {
+    background-color: rgb(238, 186, 17);
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    text-align: center;
+}
+.btn-2 {
+    background-color: rgb(91, 165, 22);
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    text-align: center;
+}
+.btn-3 {
+    background-color: rgb(214, 21, 21);
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    text-align: center;
+}
+.btn-4 {
+    background-color: rgb(22, 67, 165);
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    text-align: center;
+    
+}
+.btn{
+    text-align: center;
+    padding: 20px;
+}
+.reset{
+    background-color:rgb(22, 165, 146);
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    text-align: center;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
+.circle{
+    border-radius: 50%;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid black;
+}
